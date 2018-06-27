@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/stroagealert.html=UTF-8
+encoding//src/com/sunsea/parkinghere/webservice/client/das/ObjectFactory.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/ReadSwitchStatus.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/ReadSwitchStatusResponse.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/SetSwitch.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/SetSwitchResponse.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/SwitchControler.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/SwitchControlerSoap.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/SwitchControlerSoap_SwitchControlerSoap12_Client.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/SwitchControlerSoap_SwitchControlerSoap_Client.java=gbk
+encoding//src/com/sunsea/parkinghere/webservice/client/das/package-info.java=gbk
+encoding//src/template/passwordReset.html=UTF-8
+encoding/<project>=UTF-8
